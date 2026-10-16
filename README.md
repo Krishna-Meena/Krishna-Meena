@@ -1,35 +1,110 @@
-# Hi, I'm Krishna Meena 👋
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Krishna Meena — Data. Intelligence. Impact. GenAI, machine learning and analytics." />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=Krishna-Meena&color=blue)
+<p align="center">
+  <b>MSc Data Science student · Mumbai · Building practical AI and data products</b>
+</p>
+<p align="center">
+  <a href="https://github.com/Krishna-Meena/guard-rail">Explore GuardRail</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Krishna-Meena?tab=repositories">Browse my projects</a> &nbsp;·&nbsp;
+  <a href="mailto:student.krishnameena@gmail.com">Let's connect</a>
+</p>
 
-Data Science student building skills in Python, SQL, and Machine Learning.
+---
 
-## 🔭 Current Focus
-- Building an LLM-based Data Analyst Assistant
-- ML for financial market pattern prediction
-- Strengthening statistics fundamentals
+### Turning curiosity into working software
 
-## 🛠️ Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+I'm Krishna, a Data Science student exploring how **GenAI, machine learning, and analytics** can make complex work easier. My projects span natural-language data analysis, financial market experiments, customer churn, and security tooling for financial-services code.
 
-## 📌 Featured Projects
-| Project | Description | Stack |
-|---|---|---|
-| llm-data-analyst-assistant | Ask questions about any CSV in plain English, get analysis + charts | Python, LLM, Streamlit |
-| candlestick-pattern-predictor | ML system predicting candlestick patterns from market data | Python, scikit-learn |
+**My direction:** GenAI / LLM engineering and data roles, with a particular interest in **BFSI and FinTech**.
 
-## 📊 GitHub Stats
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishna-Meena&show_icons=true&theme=tokyonight)
+### Selected builds
 
-![Streak](https://streak-stats.demolab.com?user=Krishna-Meena&theme=tokyonight)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Meena&layout=compact&theme=tokyonight)
+#### 01 / GuardRail
+**Security tooling for financial-services code**
 
-## 📫 Reach Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:student.krishnameena@gmail.com)
+A static scanner that flags risky code patterns and maps findings to security and compliance references. Includes a CLI, Streamlit dashboard, and SARIF reporting.
+
+<sub>Python · Static analysis · Streamlit · SARIF</sub>
+
+**[Explore the code →](https://github.com/Krishna-Meena/guard-rail)** &nbsp; [Live demo ↗](https://guard-rail.streamlit.app)
+
+</td>
+<td width="50%" valign="top">
+
+#### 02 / Local Data Analyst
+**Ask your data. Keep it local.**
+
+An LLM-powered analysis workspace for profiling datasets, asking questions in plain English, generating DuckDB SQL, and exporting reports with local Ollama inference.
+
+<sub>Python · Ollama · DuckDB · Streamlit · Plotly</sub>
+
+**[Explore the code →](https://github.com/Krishna-Meena/LLM-Driven-Data-Analyst-Assistant)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 03 / SmartCSV Analyst
+**From messy CSVs to clearer insights**
+
+An interactive exploration app with statistical profiling, data quality checks, cleaning tools, automated insights, and downloadable results.
+
+<sub>Python · Pandas · SciPy · Plotly · Streamlit</sub>
+
+**[Explore the code →](https://github.com/Krishna-Meena/smartcsv-analyst)** &nbsp; [Live demo ↗](https://smartcsv-analyst-v2.streamlit.app/)
+
+</td>
+<td width="50%" valign="top">
+
+#### 04 / Churnlytic
+**Understand who might leave — and why**
+
+A customer churn project combining model comparison, single and batch predictions, interactive diagnostics, and SHAP explanations.
+
+<sub>scikit-learn · CatBoost · XGBoost · SHAP</sub>
+
+**[Explore the code →](https://github.com/Krishna-Meena/Chrunpredication)**
+
+</td>
+</tr>
+</table>
+
+**Also exploring:** [AI-Driven Candlestick Prediction →](https://github.com/Krishna-Meena/ai-driven-candle-stick-prediction)  
+Market data, technical indicators, classification models, and strategy backtesting through Streamlit, FastAPI, and a CLI.
+
+### My project toolkit
+
+<p>
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&amp;logo=python&amp;logoColor=38BDF8" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&amp;logo=postgresql&amp;logoColor=38BDF8" alt="SQL" />
+<img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&amp;logo=pandas&amp;logoColor=38BDF8" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&amp;logo=numpy&amp;logoColor=38BDF8" alt="NumPy" />
+<img src="https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=5EEAD4" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge&amp;logo=ollama&amp;logoColor=5EEAD4" alt="Ollama" />
+<img src="https://img.shields.io/badge/DuckDB-0F172A?style=for-the-badge&amp;logo=duckdb&amp;logoColor=5EEAD4" alt="DuckDB" />
+<img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&amp;logo=fastapi&amp;logoColor=5EEAD4" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&amp;logo=streamlit&amp;logoColor=A78BFA" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Plotly-0F172A?style=for-the-badge&amp;logo=plotly&amp;logoColor=A78BFA" alt="Plotly" />
+<img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&amp;logo=docker&amp;logoColor=A78BFA" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&amp;logo=githubactions&amp;logoColor=A78BFA" alt="GitHub Actions" />
+</p>
+
+### What I'm sharpening next
+
+- **LLM engineering:** retrieval-augmented generation, evaluation, and reliable tool use.
+- **Data foundations:** Python problem solving, SQL, statistics, and model evaluation.
+- **Software quality:** readable architecture, meaningful tests, typed interfaces, and reproducible environments.
+
+---
+
+<p align="center"><b>Have an internship, a useful problem, or an idea worth building?</b><br />
+<a href="mailto:student.krishnameena@gmail.com">student.krishnameena@gmail.com</a><br /><br />
+<sub>Learning deeply. Building deliberately. Sharing the work.</sub></p>
+
