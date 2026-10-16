@@ -13,7 +13,7 @@
 
 ---
 
-### Turning curiosity into working software
+### A little context behind the code
 
 I'm Krishna, a Data Science student exploring how **GenAI, machine learning, and analytics** can make complex work easier. My projects span natural-language data analysis, financial market experiments, customer churn, and security tooling for financial-services code.
 
@@ -24,6 +24,8 @@ I'm Krishna, a Data Science student exploring how **GenAI, machine learning, and
 <table>
 <tr>
 <td width="50%" valign="top">
+
+<a href="https://github.com/Krishna-Meena/guard-rail"><img src="./assets/guardrail.svg" width="100%" alt="GuardRail project overview" /></a>
 
 #### 01 / GuardRail
 **Security tooling for financial-services code**
@@ -36,6 +38,8 @@ A static scanner that flags risky code patterns and maps findings to security an
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/Krishna-Meena/LLM-Driven-Data-Analyst-Assistant"><img src="./assets/local-analyst.svg" width="100%" alt="Local Data Analyst project overview" /></a>
 
 #### 02 / Local Data Analyst
 **Ask your data. Keep it local.**
@@ -51,6 +55,8 @@ An LLM-powered analysis workspace for profiling datasets, asking questions in pl
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/Krishna-Meena/smartcsv-analyst"><img src="./assets/smartcsv.svg" width="100%" alt="SmartCSV Analyst project overview" /></a>
+
 #### 03 / SmartCSV Analyst
 **From messy CSVs to clearer insights**
 
@@ -62,6 +68,8 @@ An interactive exploration app with statistical profiling, data quality checks, 
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/Krishna-Meena/Chrunpredication"><img src="./assets/churnlytic.svg" width="100%" alt="Churnlytic project overview" /></a>
 
 #### 04 / Churnlytic
 **Understand who might leave — and why**
